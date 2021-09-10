@@ -1,8 +1,7 @@
 <template>
   
   <div class="home">
-    我是首页
-    <p>增加git管理</p>
+    <el-button type="primary">主要按钮</el-button>
   </div>
 
 </template>

@@ -7,6 +7,9 @@ import '@/assets/css/index.scss'
 
 Vue.config.productionTip = false
 
+// 加载element-ui
+import '@/utils/element.js'
+
 new Vue({
   router,
   store,
